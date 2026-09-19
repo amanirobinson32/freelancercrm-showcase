@@ -8,6 +8,22 @@ Freelancer CRM is a local-first business application designed to bring the full 
 
 > This repository is a **public product showcase only**. The commercial application source code is kept private.
 
+## Product Preview
+
+![Freelancer CRM dashboard](assets/dashboard.png)
+
+## Screenshots
+
+| Leads | Projects |
+| --- | --- |
+| ![Lead pipeline](assets/leads.png) | ![Projects](assets/projects.png) |
+
+| Proposals | Invoices |
+| --- | --- |
+| ![Proposals](assets/proposals.png) | ![Invoices](assets/invoices.png) |
+
+![Reports](assets/reports.png)
+
 ## The Problem
 
 Freelancers and solo service businesses often manage leads, clients, proposals, contracts, projects, tasks, time, expenses, invoices, and payments across too many disconnected tools.
